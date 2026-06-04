@@ -67,8 +67,8 @@ Highly motivated full-stack developer skilled in building scalable web applicati
 
 | Status | Position | Company | Duration | Location |
 |---------|----------|---------|----------|----------|
-| 🟢 | Full Stack Developer | Maxremind Inc | Jan 2026 – Present | Lahore |
-| 🟡 | Full Stack Intern | 724.one Lahore | Apr 2025 – Jul 2025 | Lahore |
+| 🟢 | Full Stack Developer | Maxremind Inc | Jan 2026 – Present | Isb |
+| 🟡 | Full Stack Intern | 724.one  | Apr 2025 – Jul 2025 | Lahore |
 
 ---
 
