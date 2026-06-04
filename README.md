@@ -61,9 +61,16 @@ Highly motivated full-stack developer skilled in building scalable web applicati
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-3C3C3C?style=for-the-badge)
 ---
-💼 Experience
-🟢  Full Stack Developer    Maxremind Inc        Jan 2026 – Present   
-🟡  Full Stack Intern       724.one Lahore       April 2025 – July 2025  
+---
+
+## 💼 Experience
+
+| Status | Position | Company | Duration | Location |
+|---------|----------|---------|----------|----------|
+| 🟢 | Full Stack Developer | Maxremind Inc | Jan 2026 – Present | Remote |
+| 🟡 | Full Stack Intern | 724.one Lahore | Apr 2025 – Jul 2025 | Lahore |
+
+---
 
 ---
 
