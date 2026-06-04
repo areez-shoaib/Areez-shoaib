@@ -2,10 +2,15 @@
 <h3 align="center">Full Stack Developer | MERN Stack Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/areez-shoaib-547988241/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/YOUR-USERNAME">
+
+  <a href="https://wa.me/923310451716" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+  </a>
+
+  <a href="https://github.com/YOUR-USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
