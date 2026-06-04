@@ -69,12 +69,12 @@ Highly motivated full-stack developer skilled in building scalable web applicati
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=areez-shoaib&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=areez-shoaib&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areez-shoaib&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -82,8 +82,8 @@ Highly motivated full-stack developer skilled in building scalable web applicati
 
 | Certificate | Issuer | Year |
 |------------|--------|------|
-| Full Stack Development Internship | Certura | 2025 |
-⭐ Thanks for visiting my profile!
+| Full Stack Development Internship | 724.one | 2025 |
+
 ---
 <p align="center">
   <a href="mailto:your-email@gmail.com">
