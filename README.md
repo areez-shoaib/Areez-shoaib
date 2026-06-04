@@ -66,15 +66,17 @@ Highly motivated full-stack developer skilled in building scalable web applicati
 🟡  Full Stack Intern       724.one Lahore       April 2025 – July 2025  
 
 ---
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=areez-shoaib&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=areez-shoaib&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=areez-shoaib&show_icons=true&theme=tokyonight&cache_seconds=1800" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=areez-shoaib&theme=tokyonight" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areez-shoaib&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areez-shoaib&layout=compact&theme=tokyonight" height="180em" />
 </p>
 
 ---
