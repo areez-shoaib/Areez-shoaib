@@ -73,5 +73,23 @@ Highly motivated full-stack developer skilled in building scalable web applicati
 </p>
 
 ---
+## 🎓 Certifications
 
+| Certificate | Issuer | Year |
+|------------|--------|------|
+| Full Stack Development Internship | Certura | 2025 |
 ⭐ Thanks for visiting my profile!
+---
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://wa.me/923260468787">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp">
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
